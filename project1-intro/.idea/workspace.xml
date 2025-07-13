@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="3447033a-11c1-4150-a454-db8e72daeae6" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradlew" beforeDir="false" afterPath="$PROJECT_DIR$/gradlew" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab/REPORT.md" beforeDir="false" afterPath="$PROJECT_DIR$/lab/REPORT.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab/src/dslabs.pingpong/PingApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/lab/src/dslabs.pingpong/PingApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab/src/dslabs.pingpong/PingClient.java" beforeDir="false" afterPath="$PROJECT_DIR$/lab/src/dslabs.pingpong/PingClient.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab/src/dslabs.pingpong/PingServer.java" beforeDir="false" afterPath="$PROJECT_DIR$/lab/src/dslabs.pingpong/PingServer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab/submit.sh" beforeDir="false" afterPath="$PROJECT_DIR$/lab/submit.sh" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2KWQSL4WYt0oy05FbzcmZdjGz99" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "C:/Program Files/Java/jdk-11",
+    "project.structure.last.edited": "SDKs",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "reference.settings.ide.settings.notifications"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3447033a-11c1-4150-a454-db8e72daeae6" name="Changes" comment="" />
+      <created>1674087867131</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1674087867131</updated>
+    </task>
+    <servers />
+  </component>
+</project>

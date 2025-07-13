@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b381f523-86da-4d2f-beca-c216b16e7e62" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CS7210PRJ.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradlew" beforeDir="false" afterPath="$PROJECT_DIR$/gradlew" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab/REPORT.md" beforeDir="false" afterPath="$PROJECT_DIR$/lab/REPORT.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab/src/dslabs.atmostonce/AMOApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/lab/src/dslabs.atmostonce/AMOApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab/src/dslabs.atmostonce/AMOCommand.java" beforeDir="false" afterPath="$PROJECT_DIR$/lab/src/dslabs.atmostonce/AMOCommand.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab/src/dslabs.atmostonce/AMOResult.java" beforeDir="false" afterPath="$PROJECT_DIR$/lab/src/dslabs.atmostonce/AMOResult.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab/src/dslabs.clientserver/Messages.java" beforeDir="false" afterPath="$PROJECT_DIR$/lab/src/dslabs.clientserver/Messages.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab/src/dslabs.clientserver/SimpleClient.java" beforeDir="false" afterPath="$PROJECT_DIR$/lab/src/dslabs.clientserver/SimpleClient.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab/src/dslabs.clientserver/SimpleServer.java" beforeDir="false" afterPath="$PROJECT_DIR$/lab/src/dslabs.clientserver/SimpleServer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab/src/dslabs.clientserver/Timers.java" beforeDir="false" afterPath="$PROJECT_DIR$/lab/src/dslabs.clientserver/Timers.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab/src/dslabs.kvstore/KVStore.java" beforeDir="false" afterPath="$PROJECT_DIR$/lab/src/dslabs.kvstore/KVStore.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab/submit.sh" beforeDir="false" afterPath="$PROJECT_DIR$/lab/submit.sh" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view>
+          <tree_state>
+            <expand />
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2LCnVUPYiNlmKeExJ7QFpf73DI6" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "E:/Kaidi_Gatech/CS7210-DC/project3-primarybackup"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="CS7210PRJ" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="CS7210PRJ" />
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b381f523-86da-4d2f-beca-c216b16e7e62" name="Changes" comment="" />
+      <created>1675383955549</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1675383955549</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/lab/tst/dslabs.kvstore/KVStoreTest.java</url>
+          <line>42</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/lab/tst/dslabs.kvstore/KVStoreTest.java</url>
+          <line>47</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
